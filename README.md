@@ -1,8 +1,7 @@
 Try speeding up Kolmogorov-Arnold Network (KAN) with `torch.compile`
 
 * https://github.com/Blealtan/efficient-kan/tree/master
-* https://pytorch.org/tutorials/intermediate/torch_compile_tutorial.html#torchdynamo-and-fx-graphs
-
+* https://pytorch.org/tutorials/intermediate/torch_compile_tutorial.html#
 ### train
 ```
 eager train time 0: 0.20260166931152343
