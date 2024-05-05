@@ -1,0 +1,9 @@
+torch
+torchvision
+tqdm
+# tensorrt 
+# torch-tensorrt
+onnx
+onnxscript
+onnxruntime-training
+openvino
